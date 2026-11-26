@@ -870,9 +870,9 @@
     "fr": "https://www.riman.win/www/fr/reports/detail/cr-botalab-deserticola-shampoo-repurchase-roi-study.html"
   },
   "dois": {
+    "zenodo": "10.5281/zenodo.24436336",
     "kaggle": "10.34740/kaggle/dsv/22383536",
     "huggingface": "10.57967/hf/11688",
-    "zenodo": "10.5281/zenodo.24436336",
     "harvard_dataverse": "10.7910/DVN/A0WQBO"
   }
 }
